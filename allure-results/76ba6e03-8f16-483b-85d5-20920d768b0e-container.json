@@ -1,0 +1,1 @@
+{"uuid":"76ba6e03-8f16-483b-85d5-20920d768b0e","name":"Automation TestSuite","children":["5fe465c3-60b6-4b09-b7b4-b694c9e5ce48"],"befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1671685806865,"stop":1671685806865}],"links":[],"start":1671685743267,"stop":1671685806866}

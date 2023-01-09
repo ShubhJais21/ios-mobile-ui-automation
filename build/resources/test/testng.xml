@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Automation TestSuite" verbose="1" thread-count="3">
+
+    <test name="IosLoginFlow" preserve-order="true">
+        <parameter name="Device" value="iPhone 14"/>
+        <parameter name="platformVersion" value="16.1"/>
+        <parameter name="deviceName" value="iPhone 14"/>
+        <parameter name="runsOn" value="local"/>
+        <classes>
+            <class name="userJourney.BikeOrderFlowTest"/>
+        </classes>
+    </test>
+</suite>
